@@ -1,5 +1,5 @@
 Group members:
-Yaxin Xiao
-Yuhong Zhang
-Muhammad Kaleem Ullah
+Yaxin Xiao;
+Yuhong Zhang;
+Muhammad Kaleem Ullah;
 Mahesh Sadupalli
